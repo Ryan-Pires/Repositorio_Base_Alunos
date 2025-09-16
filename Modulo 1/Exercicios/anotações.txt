@@ -1,0 +1,21 @@
+int - numeros inteiros - 1
+float - numeros quebrados - 2.5
+str - String - palavras - entre aspas ""
+bool - booleano - True or False - verdadeiro e falso
+
+variavel
+- caixa que recebe um valor
+- ex. nome = "Maria"
+
+operadores aritiméticos
+adição  +
+subtração -
+multiplicação *
+divisão /
+
+porcentagem %
+
+maior >
+menor <
+maior igual >=
+menor igual <=
